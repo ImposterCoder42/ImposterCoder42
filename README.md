@@ -35,7 +35,7 @@ and grow as "pretendineers".
 ### 📫 How to reach me ...
 - [Facebook](https://www.facebook.com/profile.php?id=61572063824853)
 - [YouTube](https://www.youtube.com/@impostercoding)
-- [email](garyd@legendgary.com)
+- [email](mailto:garyd@legendgary.com)
 
 ### ⚡ Fun fact: 
 One of my hobbies almost ended my life and gave me an awesome set of scares.\
